@@ -6,8 +6,8 @@
 
 ## Education
 
-- MSc Information Technology | University of Derby _(July 2024)_
-- BSc Computer Engineering North American University | Sep 2015 - Aug 2018 | 
+- MSc Information Technology, University of Derby _(July 2024)_
+- BSc Computer Engineering North American University, Sep 2015 - Aug 2018 | 
 
 ## Work Experience
 
