@@ -1,30 +1,34 @@
-# Data Analyst
+Oscar Eche
+Data Analyst
+Data analyst skilled in SQL, Google Sheets, and Power BI, with a background in operations and UX design. Focused on applying statistical analysis to real-world business problems. Experienced in data visualisation, communicating insights to stakeholders, and managing data quality across multiple systems.
+Technical Skills: SQL, BigQuery, Python and R
+Visualisation and Analytics Tools: Power BI, Google Sheets
 
-**Technical Skills:** SQL, BigQuery, Python and R
+Education
 
-**Visualisation and Analytics Tools:** Power BI, Figma
+MSc Information Technology (Distinction) | University of Derby | July 2024
+BSc Computer Engineering Technology | North American University | Sep 2015 - Aug 2018
 
-## Education
+Certificates: Google Data Analytics Professional Certification
 
-- MSc Information Technology, University of Derby _(July 2024)_
-- BSc Computer Engineering North American University, _(Aug 2018)_
+Projects
+Bank Customer Churn Analysis
+Analysed 10,000 bank customer records across demographic, financial, and behavioural dimensions to identify churn patterns and deliver actionable recommendations for a retention team.
+Key findings:
 
-## Work Experience
+Customers with 3-4 products churned at 80-100%, even when active, suggesting the products themselves are the problem
+The 46-60 age group churned at 51.12% (2.5x the base rate) across all three markets
+Inactive customers with non-zero balances were the highest-volume risk group: 3,105 customers, 31.63% churn
+Two-product customers were the retention sweet spot at just 7.58% churn
 
-Data Analyst, Freelance
+Tools used: Google Sheets, COUNTIFS, INDIRECT, Combo Charts, Data Dictionary, Cleaning Log
+View the project on GitHub
 
-- Processed and managed tenant applications using Excel, tracking application status from initial submission through approval, ensuring data accuracy and completeness at each stage
-- Conducted reference and credit checks on prospective tenants, validating information against multiple data sources and maintaining secure records in compliance with data protection regulations
-- Maintained and updated tenancy records in the property management system, performing regular data quality checks to ensure accuracy of tenant information, contract dates, and payment records
-- Coordinated property viewings by managing scheduling data, tracking prospect information, and updating the CRM system with viewing outcomes and tenant feedback
+More projects coming soon
+Currently building SQL projects in BigQuery targeting healthcare and fintech data.
 
-Rail Coordinator, Arriva PLC
+Contact
 
-- Processed, reviewed and managed daily operational data and performance reports using a dedicated rail replacement database system
-- Conducted verification and compliance checks on bus operators and drivers, validating information against multiple data sources and maintaining secure records in compliance with data protection regulations
-- Maintained and updated real-time service records in the transport management system, performing regular data quality checks to ensure accuracy of operator information, service schedules, and passenger numbers
-- Coordinated bus deployments by managing scheduling data, tracking vehicle availability, and updating the system with service changes and route adjustments
-
-## Projects
-
-Project 1: Customer Banking Churn Analysis
+Email: oscar.eche11@gmail.com
+LinkedIn: linkedin.com/in/oscareche
+GitHub: github.com/oscareche
