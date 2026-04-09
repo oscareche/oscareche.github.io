@@ -27,3 +27,4 @@ Rail Coordinator, Arriva PLC
 
 ## Projects
 
+Project 1: Customer Banking Churn Analysis
