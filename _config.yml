@@ -3,3 +3,6 @@ plugins:
   - jekyll-remote-theme
 title: Oscar Eche
 description: Data Analyst Portfolio
+description: Data Analyst Portfolio
+show_downloads: false
+logo: https://github.com/oscareche.png
