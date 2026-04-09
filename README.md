@@ -8,16 +8,12 @@ Data analyst skilled in SQL, Google Sheets, and Power BI, with a background in o
 
 **Visualisation and Analytics Tools:** Power BI, Google Sheets
 
----
-
 ## Education
 
 - **MSc Information Technology (Distinction)** | University of Derby | July 2024
 - **BSc Computer Engineering Technology** | North American University | Sep 2015 - Aug 2018
 
 **Certificates:** Google Data Analytics Professional Certification
-
----
 
 ## Projects
 
@@ -35,13 +31,10 @@ Analysed 10,000 bank customer records across demographic, financial, and behavio
 
 [View the project on GitHub](https://github.com/oscareche/banking-customer-churn)
 
----
-
 ### More projects coming soon
 
 Currently building SQL projects in BigQuery targeting healthcare and fintech data.
 
----
 
 ## Contact
 
