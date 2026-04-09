@@ -10,8 +10,8 @@ Data analyst skilled in SQL, Google Sheets, and Power BI, with a background in o
 
 ## Education
 
-- **MSc Information Technology (Distinction)** | University of Derby | July 2024
-- **BSc Computer Engineering Technology** | North American University | Sep 2015 - Aug 2018
+- **MSc Information Tech ** | University of Derby | July 2024
+- **BSc Computer Engineering Technology**, North American University, Sep 2015 - Aug 2018
 
 **Certificates:** Google Data Analytics Professional Certification
 
