@@ -1,4 +1,4 @@
-## Oscar Eche
+# Oscar Eche
 
 **Data Analyst**
 
@@ -34,7 +34,6 @@ Analysed 10,000 bank customer records across demographic, financial, and behavio
 ### More projects coming soon
 
 Currently building SQL projects in BigQuery targeting healthcare and fintech data.
-
 
 ## Contact
 
