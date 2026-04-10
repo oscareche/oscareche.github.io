@@ -22,6 +22,8 @@ Data analyst skilled in SQL, Google Sheets, and Power BI, with a background in o
 
 Analysed 10,000 bank customer records across demographic, financial, and behavioural dimensions to identify churn patterns and deliver actionable recommendations for a retention team.
 
+<img width="1010" height="492" alt="46–60 age group across countries" src="https://github.com/user-attachments/assets/f5d7645f-2723-4478-be01-7cff27f3546b" />
+
 **Key findings:**
 - Customers with 3-4 products churned at 80-100%, even when active, suggesting the products themselves are the problem
 - The 46-60 age group churned at 51.12% (2.5x the base rate) across all three markets
