@@ -40,6 +40,6 @@ Currently building SQL projects in BigQuery targeting healthcare and fintech dat
 
 ## Contact
 
-- **Email:** oscar.eche11@gmail.com
+- **Email:** [oscar.eche11@gmail.com]([oscar.eche11@gmail.com])
 - **LinkedIn:** [linkedin.com/in/oscareche](https://linkedin.com/in/oscareche)
 - **GitHub:** [github.com/oscareche](https://github.com/oscareche)
