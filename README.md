@@ -14,7 +14,7 @@ Data analyst skilled in SQL, Google Sheets, and Power BI, with a background in o
 
 - **BSc Computer Engineering Technology** , North American Uni, _Aug 2018_
 
-**Certificates:** Google Data Analytics Professional Certification
+## Certificates:** Google Data Analytics Professional Certification
 
 ## Projects
 
